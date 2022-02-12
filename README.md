@@ -5,4 +5,4 @@ In this repository you will find a total of five evaluable practices that were 6
 - [Practice 2.](./Practica2/Practica2) Calification Model of the most used Comercial Administation tools. 
 - [Practice 3.](./Practica3/Practica3) Review of Prestashop, the virtual-shop administrator. 
 - [Practice 4.](./Practica4/Practica4) BPMN using Bizagi.
-- [Practice 5.](./Practica5/Practica5) Content administrator Alfresco. 
+- [Practice 5.](https://github.com/MarkosHB/Information-Systems-Subject/blob/main/Practica5/Guion%20practica%205.pdf) Content administrator Alfresco. 
